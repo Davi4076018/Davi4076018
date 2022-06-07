@@ -14,7 +14,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   
   
-## Meu Nome é Davi Alves da Costa ^^
+## Olá, meu nome é Davi Alves da Costa ^^
 
     
     
