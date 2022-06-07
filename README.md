@@ -47,13 +47,12 @@
      
 </div>
   
+<div align="right">
+ 
+  ![](https://komarev.com/ghpvc/?username=Davi4076018&color=blueviolet)
   
+</div>
   
-   <a float="right">
-  
-![](https://komarev.com/ghpvc/?username=Davi4076018&color=blueviolet)
-    
-</a>
 
 
   
