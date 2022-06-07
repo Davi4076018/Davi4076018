@@ -42,7 +42,7 @@
  <br> 
  <br>
   
-<a align="left">
+<a align="right">
   
 ![](https://komarev.com/ghpvc/?username=Davi4076018&color=blueviolet)
     
