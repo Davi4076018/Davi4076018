@@ -2,8 +2,8 @@
 
  <div>
   <a href="https://github.com/Davi4076018">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Davi4076018&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi4076018&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Davi4076018&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi4076018&layout=compact&langs_count=7&theme=aura"/>
 </div>
  <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
