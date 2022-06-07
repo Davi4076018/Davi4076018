@@ -37,11 +37,11 @@
    <a align="left" href="https://www.linkedin.com/in/davi-alves-da-costa-640602205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a align="left" href="https://api.whatsapp.com/send?phone=5518981108765" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   
-  <div style="float: right" align="righ">
+  <a  align="righ">
   
   ![](https://komarev.com/ghpvc/?username=Davi4076018&color=blueviolet)
     
-   </div>   
+   </a>   
      
 </div>
   
