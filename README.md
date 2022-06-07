@@ -29,7 +29,5 @@
   <a href="https://www.instagram.com/davi_alves_c/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </div>    
    
-<p></p>
-<p></p>
    
 ![](https://komarev.com/ghpvc/?username=Davi4076018&color=blueviolet)
