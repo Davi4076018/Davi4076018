@@ -17,13 +17,15 @@
   <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
   
-</div>
-  
+
+ </div>
+   
 ## 
  
     
-    
-![Snake animation](https://github.com/Davi4076018/Davi4076018/blob/output/github-contribution-grid-snake.svg)
+ <div align="center">
+  ![Snake animation](https://github.com/Davi4076018/Davi4076018/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 ##
    
