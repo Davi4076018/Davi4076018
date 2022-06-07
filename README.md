@@ -3,7 +3,7 @@
   <img src="https://i.giphy.com/media/NKEt9elQ5cR68/giphy.webp" />
 </p>
 
- <div>
+ <div align="center">
   <a href="https://github.com/Davi4076018">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Davi4076018&show_icons=true&theme=aura"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi4076018&layout=compact&langs_count=7&theme=aura"/>
