@@ -42,18 +42,18 @@
  <br> 
  <br>
   
-<a align="right">
-  
-![](https://komarev.com/ghpvc/?username=Davi4076018&color=blueviolet)
-    
-</a>
+
 
      
 </div>
   
   
   
-   
+   <a align="right">
+  
+![](https://komarev.com/ghpvc/?username=Davi4076018&color=blueviolet)
+    
+</a>
 
 
   
