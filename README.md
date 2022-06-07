@@ -21,4 +21,4 @@
 ![Snake animation](https://github.com/Davi4076018/Davi4076018/blob/output/github-contribution-grid-snake.svg)
 
 
-![](https://komarev.com/ghpvc/?username=Davi4076018&color=green)
+![](https://komarev.com/ghpvc/?username=Davi4076018&color=blueviolet)
