@@ -11,24 +11,12 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-### Hey👍🏻
-## Meu Nome é Davi Alves da Costa🙎🏻‍♂️🇧🇷.
 
-Sou Engenheiro de Computação. 💻
+## Meu Nome é Davi Alves da Costa ^^
 
-Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios e pronto para enfrentar mudanças.
-
-### 🌍 "Quanto mais eu sei, mais eu sou" 🧠
-
-- 📍 Paulista morando em Birigui
-- 💻 Estudo no Instituto Federal de São Paulo [IFSP_Birigui](https://bri.ifsp.edu.br/)
-
-Me alcance 👇🏼
-##
     
     
 ![Snake animation](https://github.com/Davi4076018/Davi4076018/blob/output/github-contribution-grid-snake.svg)
 
-#Obrigado pela visita!
 
 ![](https://komarev.com/ghpvc/?username=Davi4076018&color=green)
