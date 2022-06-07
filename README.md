@@ -49,7 +49,7 @@
   
   
   
-   <a align="right">
+   <a float="right">
   
 ![](https://komarev.com/ghpvc/?username=Davi4076018&color=blueviolet)
     
