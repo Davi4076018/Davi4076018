@@ -44,7 +44,7 @@
    <br>
    <br>
    
-<div align="center">
+<div align="right">
   
    ![](https://komarev.com/ghpvc/?username=Davi4076018&color=blueviolet)
      
