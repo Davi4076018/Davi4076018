@@ -42,7 +42,10 @@
 |  ![](https://komarev.com/ghpvc/?username=Davi4076018&color=blueviolet) |  ![](https://komarev.com/ghpvc/?username=Davi4076018&color=blueviolet) |
   
     
- <div outputclass="float-right">
+  <br>
+  <br>
+  
+ <div align="left">
  
   ![](https://komarev.com/ghpvc/?username=Davi4076018&color=blueviolet)
   
