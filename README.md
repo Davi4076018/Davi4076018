@@ -31,4 +31,4 @@ Me alcance 👇🏼
 
 #Obrigado pela visita!
 
-![](https://komarev.com/ghpvc/?username=Davi4076018&color=purple)
+![](https://komarev.com/ghpvc/?username=Davi4076018&color=green)
