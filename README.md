@@ -30,7 +30,7 @@
 
 ##
 <!-- Card de repositório decorada -->
-<div>
+<div align="center">
     <a href="https://github.com/Davi4076018/Melhorador_de_Imagens-Filtro_Boost_e_Outros"> <!-- Python Projeto -->
         <img align="center" alt="Melhorador_de_Imagens-Filtro_Boost_e_Outros" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=Davi4076018&repo=Melhorador_de_Imagens-Filtro_Boost_e_Outros&theme=aura"/>
     </a>
