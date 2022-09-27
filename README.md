@@ -42,8 +42,8 @@
     <a href="https://github.com/Davi4076018/Visualizador_de_Clipboard_para_Windows_-_Imagem_e_Texto"> <!-- Python Projeto -->
         <img align="center" alt=Visualizador_de_Clipboard_para_Windows_-_Imagem_e_Texto" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Davi4076018&repo=Visualizador_de_Clipboard_para_Windows_-_Imagem_e_Texto&theme=aura"/>
     </a>
-    <a href="https://github.com/Davi4076018/Visualizador_de_Clipboard_para_Windows_-_Imagem_e_Texto"> <!-- Python Projeto -->
-        <img align="center" alt=Visualizador_de_Clipboard_para_Windows_-_Imagem_e_Texto" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Davi4076018&repo=Visualizador_de_Clipboard_para_Windows_-_Imagem_e_Texto&theme=aura"/>
+    <a href="https://github.com/Davi4076018/ESP32_LittleFS_Manipulando_Arquivos"> <!-- Python Projeto -->
+        <img align="center" alt=Visualizador_de_Clipboard_para_Windows_-_Imagem_e_Texto" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Davi4076018&repo=ESP32_LittleFS_Manipulando_Arquivos&theme=aura"/>
     </a>
 </div> 
 
