@@ -37,6 +37,7 @@
     <a href="https://github.com/Davi4076018/Webcam_de_Monitoramento_Via_Email"> <!-- Python Projeto -->
         <img align="center" alt="Webcam_de_Monitoramento_Via_Email" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Davi4076018&repo=Webcam_de_Monitoramento_Via_Email&theme=aura"/>
     </a>
+ <br>
     <a href="https://github.com/Davi4076018/Visualizador_de_Clipboard_para_Windows_-_Imagem_e_Texto"> <!-- Python Projeto -->
         <img align="center" alt=Visualizador_de_Clipboard_para_Windows_-_Imagem_e_Texto" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Davi4076018&repo=Visualizador_de_Clipboard_para_Windows_-_Imagem_e_Texto&theme=aura"/>
     </a>
