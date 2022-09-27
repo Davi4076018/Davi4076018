@@ -34,8 +34,8 @@
     <a href="https://github.com/Davi4076018/Melhorador_de_Imagens-Filtro_Boost_e_Outros"> <!-- Python Projeto -->
         <img align="center" alt="Melhorador_de_Imagens-Filtro_Boost_e_Outros" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Davi4076018&repo=Melhorador_de_Imagens-Filtro_Boost_e_Outros&theme=aura"/>
     </a>
-    <a href="https://github.com/Davi4076018/Tratamento_de_Dados_das_Tops_Trends_do_Twtter"> <!-- Python Projeto -->
-        <img align="center" alt=Tratamento_de_Dados_das_Tops_Trends_do_Twtter" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Davi4076018&repo=Tratamento_de_Dados_das_Tops_Trends_do_Twtter&theme=aura"/>
+    <a href="https://github.com/Davi4076018/Tratamento_de_Dados_das_Tops_Trends_do_Twitter"> <!-- Python Projeto -->
+        <img align="center" alt=Tratamento_de_Dados_das_Tops_Trends_do_Twitter" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Davi4076018&repo=Tratamento_de_Dados_das_Tops_Trends_do_Twitter&theme=aura"/>
     </a>
  <br>
  <br>
