@@ -1,5 +1,5 @@
 <p align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8b67db&height=120&section=header&"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=312849&height=120&section=header&"/>
 </p>
 
 <p align="center">
@@ -68,6 +68,8 @@
   ![](https://komarev.com/ghpvc/?username=Davi4076018&color=blueviolet)
   
   </div>
+  
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=312849&height=120&section=footer"/>
 
 
   
