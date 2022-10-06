@@ -32,7 +32,7 @@
   <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">   
 
  </div>
-   
+  
 ## 
  
     
@@ -43,6 +43,19 @@
 </div>
 
 ##
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8b67db&height=120&section=footer"/>
+  
+ <p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=1750&pause=2000&color=61ffca&center=true&width=500&height=150&lines=Projetos;Python" alt="Typing SVG" /></a>
+ </p>
+    
+    
+ <p align="center">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8b67db&height=120&section=header&"/>
+</p>
+  
+  
 <!-- Card de repositório decorada -->
 <div align="center">
     <a href="https://github.com/Davi4076018/Melhorador_de_Imagens-Filtro_Boost_e_Outros"> <!-- Python Projeto -->
@@ -62,6 +75,8 @@
 </div> 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8b67db&height=120&section=footer"/>
+ 
+  
   
 ##
 
