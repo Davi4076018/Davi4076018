@@ -1,5 +1,9 @@
 <p align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=312849&height=120&section=header&"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5ef5c2&height=120&section=header&"/>
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=1750&pause=2000&color=5EF5C2&center=true&width=500&height=150&lines=GitHub+Portf%C3%B3lio;Davi+alves+da+Costa" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -51,6 +55,8 @@
     </a>
 </div> 
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5ef5c2&height=120&section=footer"/>
+  
 ##
 
   <a align="left" href = "mailto: davi4076018@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -63,13 +69,14 @@
   <br>
   
   
+  
  <div align="left">
  
   ![](https://komarev.com/ghpvc/?username=Davi4076018&color=blueviolet)
   
   </div>
   
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=312849&height=120&section=footer"/>
+ 
 
 
   
