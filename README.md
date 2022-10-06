@@ -1,15 +1,15 @@
 <p align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8b67db&height=120&section=header&"/>
+  <img width=80% src="https://capsule-render.vercel.app/api?type=waving&color=8b67db&height=120&section=header&"/>
 </p>
 
 <p align="center">
-  <img height="100%" src="https://i.giphy.com/media/NKEt9elQ5cR68/giphy.webp" />
+  <img height="80%" src="https://i.giphy.com/media/NKEt9elQ5cR68/giphy.webp" />
 </p>
 
  <div align="center">
   <a href="https://github.com/Davi4076018">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Davi4076018&show_icons=true&theme=aura"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi4076018&layout=compact&langs_count=7&theme=aura"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Davi4076018&show_icons=true&theme=aura"/>
+  <img height="1550em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi4076018&layout=compact&langs_count=7&theme=aura"/>
 </div>
  <div style="display: inline_block"  align="center"><br>
   <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
