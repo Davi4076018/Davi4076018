@@ -1,6 +1,9 @@
-##
 <p align="center">
-  <img height="350em" src="https://i.giphy.com/media/NKEt9elQ5cR68/giphy.webp" />
+  <img width=88% src="https://capsule-render.vercel.app/api?type=waving&color=8b67db&height=120&section=header&"/>
+</p>
+
+<p align="center">
+  <img height="100%" src="https://i.giphy.com/media/NKEt9elQ5cR68/giphy.webp" />
 </p>
 
  <div align="center">
