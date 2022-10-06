@@ -46,18 +46,18 @@
 <!-- Card de repositório decorada -->
 <div align="center">
     <a href="https://github.com/Davi4076018/Melhorador_de_Imagens-Filtro_Boost_e_Outros"> <!-- Python Projeto -->
-        <img align="center" alt="Melhorador_de_Imagens-Filtro_Boost_e_Outros" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Davi4076018&repo=Melhorador_de_Imagens-Filtro_Boost_e_Outros&theme=aura"/>
+        <img align="center" alt="Melhorador_de_Imagens-Filtro_Boost_e_Outros" height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Davi4076018&repo=Melhorador_de_Imagens-Filtro_Boost_e_Outros&theme=aura"/>
     </a>
     <a href="https://github.com/Davi4076018/Tratamento_de_Dados_das_Tops_Trends_do_Twitter"> <!-- Python Projeto -->
-        <img align="center" alt=Tratamento_de_Dados_das_Tops_Trends_do_Twitter" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Davi4076018&repo=Tratamento_de_Dados_das_Tops_Trends_do_Twitter&theme=aura"/>
+        <img align="center" alt=Tratamento_de_Dados_das_Tops_Trends_do_Twitter" height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Davi4076018&repo=Tratamento_de_Dados_das_Tops_Trends_do_Twitter&theme=aura"/>
     </a>
  <br>
  <br>
     <a href="https://github.com/Davi4076018/Webcam_de_Monitoramento_Via_Email"> <!-- Python Projeto -->
-        <img align="center" alt="Webcam_de_Monitoramento_Via_Email" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Davi4076018&repo=Webcam_de_Monitoramento_Via_Email&theme=aura"/>
+        <img align="center" alt="Webcam_de_Monitoramento_Via_Email" height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Davi4076018&repo=Webcam_de_Monitoramento_Via_Email&theme=aura"/>
     </a>
     <a href="https://github.com/Davi4076018/Visualizador_de_Clipboard_para_Windows_-_Imagem_e_Texto"> <!-- Python Projeto -->
-        <img align="center" alt=Visualizador_de_Clipboard_para_Windows_-_Imagem_e_Texto" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Davi4076018&repo=Visualizador_de_Clipboard_para_Windows_-_Imagem_e_Texto&theme=aura"/>
+        <img align="center" alt=Visualizador_de_Clipboard_para_Windows_-_Imagem_e_Texto" height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Davi4076018&repo=Visualizador_de_Clipboard_para_Windows_-_Imagem_e_Texto&theme=aura"/>
     </a>
 </div> 
 
