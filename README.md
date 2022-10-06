@@ -44,37 +44,37 @@
 
 ##
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8b67db&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3572a5&height=120&section=footer"/>
   
  <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=1750&pause=2000&color=61ffca&center=true&width=500&height=150&lines=Projetos;Python" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=1750&pause=2000&color=vccd30e&center=true&width=500&height=150&lines=Projetos;Python" alt="Typing SVG" /></a>
  </p>
     
     
  <p align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8b67db&height=120&section=header&"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3572a5&height=120&section=header&"/>
 </p>
   
   
 <!-- Card de repositório decorada -->
 <div align="center">
     <a href="https://github.com/Davi4076018/Melhorador_de_Imagens-Filtro_Boost_e_Outros"> <!-- Python Projeto -->
-        <img align="center" alt="Melhorador_de_Imagens-Filtro_Boost_e_Outros" height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Davi4076018&repo=Melhorador_de_Imagens-Filtro_Boost_e_Outros&theme=aura"/>
+        <img align="center" alt="Melhorador_de_Imagens-Filtro_Boost_e_Outros" height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Davi4076018&repo=Melhorador_de_Imagens-Filtro_Boost_e_Outros&theme=yeblu"/>
     </a>
     <a href="https://github.com/Davi4076018/Tratamento_de_Dados_das_Tops_Trends_do_Twitter"> <!-- Python Projeto -->
-        <img align="center" alt=Tratamento_de_Dados_das_Tops_Trends_do_Twitter" height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Davi4076018&repo=Tratamento_de_Dados_das_Tops_Trends_do_Twitter&theme=aura"/>
+        <img align="center" alt=Tratamento_de_Dados_das_Tops_Trends_do_Twitter" height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Davi4076018&repo=Tratamento_de_Dados_das_Tops_Trends_do_Twitter&theme=yeblu"/>
     </a>
  <br>
  <br>
     <a href="https://github.com/Davi4076018/Webcam_de_Monitoramento_Via_Email"> <!-- Python Projeto -->
-        <img align="center" alt="Webcam_de_Monitoramento_Via_Email" height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Davi4076018&repo=Webcam_de_Monitoramento_Via_Email&theme=aura"/>
+        <img align="center" alt="Webcam_de_Monitoramento_Via_Email" height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Davi4076018&repo=Webcam_de_Monitoramento_Via_Email&theme=yeblu"/>
     </a>
     <a href="https://github.com/Davi4076018/Visualizador_de_Clipboard_para_Windows_-_Imagem_e_Texto"> <!-- Python Projeto -->
-        <img align="center" alt=Visualizador_de_Clipboard_para_Windows_-_Imagem_e_Texto" height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Davi4076018&repo=Visualizador_de_Clipboard_para_Windows_-_Imagem_e_Texto&theme=aura"/>
+        <img align="center" alt=Visualizador_de_Clipboard_para_Windows_-_Imagem_e_Texto" height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Davi4076018&repo=Visualizador_de_Clipboard_para_Windows_-_Imagem_e_Texto&theme=yeblu"/>
     </a>
 </div> 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8b67db&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3572a5&height=120&section=footer"/>
  
   
   
