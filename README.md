@@ -1,19 +1,19 @@
 <p align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5ef5c2&height=120&section=header&"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8b67db&height=120&section=header&"/>
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=1750&pause=2000&color=5EF5C2&center=true&width=500&height=150&lines=GitHub+Portf%C3%B3lio;Davi+alves+da+Costa" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=1750&pause=2000&color=8b67db&center=true&width=500&height=150&lines=GitHub+Portf%C3%B3lio;Davi+alves+da+Costa" alt="Typing SVG" /></a>
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5ef5c2&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8b67db&height=120&section=footer"/>
 
 <p align="center">
   <img height="80%" src="https://i.giphy.com/media/NKEt9elQ5cR68/giphy.webp" />
 </p>
 
 <p align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5ef5c2&height=120&section=header&"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8b67db&height=120&section=header&"/>
 </p>
 
  <div align="center">
@@ -61,7 +61,7 @@
     </a>
 </div> 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5ef5c2&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8b67db&height=120&section=footer"/>
   
 ##
 
