@@ -9,7 +9,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8b67db&height=120&section=footer"/>
 
 <p align="center">
-  <img height="80%" src="https://i.giphy.com/media/NKEt9elQ5cR68/giphy.webp" />
+  <img height="80%" src="https://i.pinimg.com/originals/bc/87/e5/bc87e5124f8d2cfe810d403adc96ad01.gif" />
 </p>
 
 <p align="center">
