@@ -33,17 +33,6 @@
 
  </div>
   
-## 
- 
-    
- <div align="center">
-   
-![Snake animation](https://github.com/Davi4076018/Davi4076018/blob/output/github-contribution-grid-snake.svg)
-   
-</div>
-
-##
-  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3572a5&height=120&section=footer"/>
   
  <p align="center">
