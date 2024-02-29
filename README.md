@@ -50,13 +50,13 @@
     <a href="https://github.com/Davi4076018/Melhorador_de_Imagens-Filtro_Boost_e_Outros"> <!-- Python Projeto -->
         <img align="center" alt="Melhorador_de_Imagens-Filtro_Boost_e_Outros" height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Davi4076018&repo=Melhorador_de_Imagens-Filtro_Boost_e_Outros&theme=yeblu"/>
     </a>
-    <a href="https://github.com/Davi4076018/Tratamento_de_Dados_das_Tops_Trends_do_Twitter"> <!-- Python Projeto -->
-        <img align="center" alt=Tratamento_de_Dados_das_Tops_Trends_do_Twitter" height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Davi4076018&repo=Tratamento_de_Dados_das_Tops_Trends_do_Twitter&theme=yeblu"/>
+    <a href=https://github.com/Davi4076018/Gerenciador_de_Banco_de_Dados_em_Python"> <!-- Python Projeto -->
+        <img align="center" alt=Gerenciador_de_Banco_de_Dados_em_Python" height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Davi4076018&repo=Gerenciador_de_Banco_de_Dados_em_Python&theme=yeblu"/>
     </a>
  <br>
  <br>
     <a href="https://github.com/Davi4076018/ChatBot_que_Aprende_Pesquisando_no_Google"> <!-- Python Projeto -->
-        <img align="center" alt="Webcam_de_Monitoramento_Via_Email" height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Davi4076018&repo=ChatBot_que_Aprende_Pesquisando_no_Google&theme=yeblu"/>
+        <img align="center" alt="ChatBot_que_Aprende_Pesquisando_no_Google" height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Davi4076018&repo=ChatBot_que_Aprende_Pesquisando_no_Google&theme=yeblu"/>
     </a>
     <a href="https://github.com/Davi4076018/Visualizador_de_Clipboard_para_Windows_-_Imagem_e_Texto"> <!-- Python Projeto -->
         <img align="center" alt=Visualizador_de_Clipboard_para_Windows_-_Imagem_e_Texto" height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Davi4076018&repo=Visualizador_de_Clipboard_para_Windows_-_Imagem_e_Texto&theme=yeblu"/>
