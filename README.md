@@ -1,30 +1,17 @@
-<p align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8b67db&height=120&section=header&"/>
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=1750&pause=2000&color=61ffca&center=true&width=500&height=150&lines=GitHub+Portf%C3%B3lio;Davi+alves+da+Costa" alt="Typing SVG" /></a>
-</p>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8b67db&height=120&section=footer"/>
 
 <p align="center">
   <img height="80%" src="https://i.pinimg.com/originals/bc/87/e5/bc87e5124f8d2cfe810d403adc96ad01.gif" />
 </p>
 
-<p align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8b67db&height=120&section=header&"/>
-</p>
 
  <div align="center">
   <a href="https://github.com/Davi4076018">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Davi4076018&show_icons=true&theme=aura"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi4076018&layout=compact&langs_count=7&theme=aura"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Davi4076018&show_icons=true&theme=aura"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi4076018&layout=compact&langs_count=7&theme=aura"/>
 </div>
  <div style="display: inline_block"  align="center"><br>
   <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="CPlusPlus" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -32,18 +19,14 @@
   <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">   
 
  </div>
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3572a5&height=120&section=footer"/>
-  
- <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=1750&pause=2000&color=vccd30e&center=true&width=500&height=150&lines=Projetos;Python" alt="Typing SVG" /></a>
- </p>
-    
-    
- <p align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3572a5&height=120&section=header&"/>
-</p>
-  
+
+  ##
+ <div style="display: inline_block"  align="center"><br>
+  <img align="center" alt="HTML" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ </div>
+
+  <br>
+  <br>
   
 <!-- Card de repositório decorada -->
 <div align="center">
@@ -62,8 +45,6 @@
         <img align="center" alt=Gerenciador_de_Banco_de_Dados_em_Python" height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Davi4076018&repo=Gerenciador_de_Banco_de_Dados_em_Python&theme=yeblu"/>
     </a>
 </div> 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3572a5&height=120&section=footer"/>
  
   
   
