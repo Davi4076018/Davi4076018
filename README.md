@@ -5,9 +5,9 @@
 
 
  <div align="center">
-  <a href="https://github.com/Davi4076018">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Davi4076018&show_icons=true&theme=aura"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi4076018&layout=compact&langs_count=7&theme=aura"/>
+  <a href="https://github.com/Davi-AlvesC">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Davi-AlvesC&show_icons=true&theme=aura"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-AlvesC&layout=compact&langs_count=7&theme=aura"/>
 </div>
  <div style="display: inline_block"  align="center"><br>
   <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
@@ -30,18 +30,18 @@
   
 <!-- Card de repositório decorada -->
 <div align="center">
-    <a href="https://github.com/Davi4076018/Melhorador_de_Imagens-Filtro_Boost_e_Outros"> <!-- Python Projeto -->
+    <a href="https://github.com/Davi-AlvesC/Melhorador_de_Imagens-Filtro_Boost_e_Outros"> <!-- Python Projeto -->
         <img align="center" alt="Melhorador_de_Imagens-Filtro_Boost_e_Outros" height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Davi4076018&repo=Melhorador_de_Imagens-Filtro_Boost_e_Outros&theme=yeblu"/>
     </a>
-    <a href="https://github.com/Davi4076018/Visualizador_de_Clipboard_para_Windows_-_Imagem_e_Texto"> <!-- Python Projeto -->
+    <a href="https://github.com/Davi-AlvesC/Visualizador_de_Clipboard_para_Windows_-_Imagem_e_Texto"> <!-- Python Projeto -->
         <img align="center" alt=Visualizador_de_Clipboard_para_Windows_-_Imagem_e_Texto" height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Davi4076018&repo=Visualizador_de_Clipboard_para_Windows_-_Imagem_e_Texto&theme=yeblu"/>
     </a>
  <br>
  <br>
-    <a href="https://github.com/Davi4076018/ChatBot_que_Aprende_Pesquisando_no_Google"> <!-- Python Projeto -->
+    <a href="https://github.com/Davi-AlvesC/ChatBot_que_Aprende_Pesquisando_no_Google"> <!-- Python Projeto -->
         <img align="center" alt="ChatBot_que_Aprende_Pesquisando_no_Google" height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Davi4076018&repo=ChatBot_que_Aprende_Pesquisando_no_Google&theme=yeblu"/>
     </a>
-    <a href="https://github.com/Davi4076018/Gerenciador_de_Banco_de_Dados_em_Python"> <!-- Python Projeto -->
+    <a href="https://github.com/Davi-AlvesC/Gerenciador_de_Banco_de_Dados_em_Python"> <!-- Python Projeto -->
         <img align="center" alt=Gerenciador_de_Banco_de_Dados_em_Python" height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=Davi4076018&repo=Gerenciador_de_Banco_de_Dados_em_Python&theme=yeblu"/>
     </a>
 </div> 
